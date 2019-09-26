@@ -1,6 +1,5 @@
 <template>
     <GridLayout rows="auto" verticalAlignment="top">
-        <!-- <Label row="0" text="Event Map" class="title med" /> -->
         <GridLayout row="0" class="card">
             <Mapbox
                 accessToken="pk.eyJ1IjoiY2xpY2tuIiwiYSI6ImNqdzhyZWZhazF5ZWMzenMwM200d2YzYnEifQ.AJs2nD_1XKA288fboJuFSw"

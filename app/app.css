@@ -1,3 +1,16 @@
+Label.action-bar {
+    width: 60;
+    height: 60;
+    border-radius: 30;
+    text-align:center;
+    padding: 15;
+    font-size: 20;
+}
+
+ActionBar {
+    background-color:  #5326BF;
+    color: white;
+}
 
 .page {
   color: #FFF;

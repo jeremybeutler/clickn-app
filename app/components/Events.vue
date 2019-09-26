@@ -1,6 +1,5 @@
 <template>
     <GridLayout rows="auto,*" verticalAlignment="top">
-        <Label row="0" text="Events" class="title med" />
         <GridLayout row="1" class="card">            
         </GridLayout>
     </GridLayout>

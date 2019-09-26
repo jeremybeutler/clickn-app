@@ -1,4 +1,7 @@
 import Vue from 'nativescript-vue';
+import VueDevtools from 'nativescript-vue-devtools'
+
+Vue.use(VueDevtools)
 
 import Home from './components/Home';
 
@@ -6,6 +9,7 @@ import Home from './components/Home';
 Vue.config.silent = false;
 
 import { TNSFontIcon, fonticon } from './nativescript-fonticon';
+TNSFontIcon.debug = true;
 
 //TNSFontIcon.debug = true;
 
